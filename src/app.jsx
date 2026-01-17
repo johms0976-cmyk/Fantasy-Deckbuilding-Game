@@ -1,6 +1,4 @@
-const { useState, useEffect, useCallback, useRef, useMemo, useReducer, memo } = React;
-
-
+import React, { useState, useEffect, useCallback, useRef, useMemo, useReducer, memo } from 'react';
 
 // ============================================
 // PERFORMANCE: Memoized deck operations

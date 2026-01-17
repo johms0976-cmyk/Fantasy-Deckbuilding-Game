@@ -1,5 +1,5 @@
 {
-  "name": "lotr-deckbuilder",
+  "name": "Fantasy Deckbuilding Game",
   "private": true,
   "type": "module",
   "scripts": {

@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/lotr-deckbuilder/' // repo name
+  base: '/Fantasy-Deckbuilding-Game/' // repo name
 });
